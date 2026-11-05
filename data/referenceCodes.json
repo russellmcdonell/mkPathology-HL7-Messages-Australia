@@ -1,0 +1,277 @@
+{
+	"23826-1": {
+		"description": "Bordetella pertussis for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Detected", 0.3],
+						["Not Detected", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Not Detected"
+	},
+	"21613-5": {
+		"description": "Chlamydia trachomatis for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P16Y", "maxAge": "P29Y", "codes": [
+						["Positive", 4.5],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"24111-7": {
+		"description": "Neisseria gonorrhoeae for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 0.2],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"882-1": {
+		"description": "Blood compatibility test for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["O Pos", 38],
+						["O Neg", 45],
+						["A Pos", 77],
+						["A Neg", 83],
+						["B Pos", 95],
+						["B Neg", 97],
+						["AB Pos", 99],
+						["AB Neg", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "all"
+	},
+	"14722-3": {
+		"description": "Extractable nuclear antigen anitbody screening test for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 10.0],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"2335-8": {
+		"description": "Occult blood in Feces for all Specimen type 'Faeces' and all sex codes",
+		"specimen": {
+			"Faeces": {
+				"all": [
+					{"minAge": "P35Y", "maxAge": "P120Y", "codes": [
+						["Positive", 5.9],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"29891-9": {
+		"description": "Helicobacter pylori for Specimen type 'Breath' and all sex codes",
+		"specimen": {
+			"Breath": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P60Y", "codes": [
+						["Positive", 25.0],
+						["Negative", 100.0]
+						]
+					},
+					{"minAge": "P60Y", "maxAge": "P120Y", "codes": [
+						["Positive", 40.0],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"35492-8": {
+		"description": "Methicillin-resistant Staphylococcus aureus (MRSA) for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 1.45],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"31950-9": {
+		"description": "Respiratory syncytial virus (RSV) for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 10.0],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"22587-0": {
+		"description": "Treponema pallidum (syphilis) for 'Serum' Specimen type and all sex codes",
+		"specimen": {
+			"Serum": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 0.024],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"50689-9": {
+		"description": "Treponema pallidum (syphilis) for CSF' Specimen type and all sex codes",
+		"specimen": {
+			"CSF": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 0.024],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"890-4": {
+		"description": "Hemoglobin for 'Serum' and 'Plasma' Specimen types and all sex codes",
+		"specimen": {
+			"Serum": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 0.2],
+						["Negative", 100.0]
+						]
+					}
+				]
+			},
+			"Plasma": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 0.2],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"2110-5": {
+		"description": "Choriogonadotropin beta subunit / hCG  for 'Serum' and 'Plasma' Specimen type and 'F' sex code",
+		"specimen": {
+			"Serum": {
+				"F": [
+					{"minAge": "P12Y", "maxAge": "P60Y", "codes": [
+						["Positive", 1.0],
+						["Negative", 100.0]
+						]
+					}
+				]
+			},
+			"Plasma": {
+				"F": [
+					{"minAge": "P12Y", "maxAge": "P60Y", "codes": [
+						["Positive", 1.0],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	},
+	"85778-9": {
+		"description": "Haemophilus influenzae for 'Blood' specimen type and all sex codes",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P2Y", "maxAge": "P16Y", "codes": [
+						["Detected", 48.9],
+						["Not Detected", 100.0]
+						]
+					},
+					{"minAge": "P16Y", "maxAge": "P120Y", "codes": [
+						["Detected", 22.9],
+						["Not Detected", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Not Detected"
+	},
+	"30167-1": {
+		"description": "High-Risk Human Papillomavirus (HPV) for 'Cervical' Specimen type and 'F' sex code",
+		"specimen": {
+			"Cervix swab": {
+				"F": [
+					{"minAge": "P18Y", "maxAge": "P80Y", "codes": [
+						["Detected", 7.0],
+						["Not Detected", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Not Detected"
+	},
+	"41458-1": {
+		"description": "SARS coronavirus RNA for all Specimen types and all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "codes": [
+						["Positive", 0.4],
+						["Negative", 100.0]
+						]
+					}
+				]
+			}
+		},
+		"normal": "Negative"
+	}
+}
+

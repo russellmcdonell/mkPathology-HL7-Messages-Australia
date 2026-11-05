@@ -1,0 +1,2263 @@
+{
+    "2951-2": {
+		"description": "Sodium, all specimen types, any sex codes",
+		"specimen": {
+			"all": {
+                "all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 132, "maxValue": 147},
+					{"minAge": "P1W", "maxAge": "P18Y", "minValue": 133, "maxValue": 144},
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 135, "maxValue": 145}  
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2823-3": {
+		"description": "Potassium for 'Serum' and 'Plasma', any sex code",
+		"specimen": {
+			"Serum": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 3.8, "maxValue": 6.5},
+					{"minAge": "P1W", "maxAge": "P26W", "minValue": 4.2, "maxValue": 6.7},
+					{"minAge": "P26W", "maxAge": "P2Y", "minValue": 3.9, "maxValue": 5.6},
+					{"minAge": "P2Y", "maxAge": "P18Y", "minValue": 3.6, "maxValue": 5.3},
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 5.2}  
+				]
+			},
+			"Plasma": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 3.5, "maxValue": 6.2},
+					{"minAge": "P1W", "maxAge": "P26W", "minValue": 3.8, "maxValue": 6.4},
+					{"minAge": "P26W", "maxAge": "P2Y", "minValue": 3.5, "maxValue": 5.4},
+					{"minAge": "P2Y", "maxAge": "P18Y", "minValue": 3.3, "maxValue": 4.9},
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 5.2}  
+				]
+			}
+		},
+		"precision": 1
+    },
+    "2075-0": {
+		"description": "Chloride, all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 98, "maxValue": 115},
+					{"minAge": "P1W", "maxAge": "P18Y", "minValue": 97, "maxValue": 110},
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 95, "maxValue": 110}  
+					]
+			}
+		},
+		"precision": 0
+    },
+    "1963-8": {
+		"discreption": "Bicarbonate, all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 15, "maxValue": 28},
+					{"minAge": "P1W", "maxAge": "P2Y", "minValue": 16, "maxValue": 29},
+					{"minAge": "P2Y", "maxAge": "P10Y", "minValue": 17, "maxValue": 30},
+					{"minAge": "P10Y", "maxAge": "P18Y", "minValue": 20, "maxValue": 32},
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 22, "maxValue": 32}  
+					]
+			}
+		},
+		"precision": 0
+    },
+    "14682-9": {
+		"description": "Creatinine, all specimen types for 'M' and 'F' sex codes`",
+		"specimen": {
+			"all": {
+				"M": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 22, "maxValue":93},
+					{"minAge": "P1W", "maxAge": "P4W", "minValue": 17, "maxValue": 50},
+					{"minAge": "P4W", "maxAge": "P2Y", "minValue": 11, "maxValue": 36},
+					{"minAge": "P2Y", "maxAge": "P6Y", "minValue": 20, "maxValue": 44},
+					{"minAge": "P6Y", "maxAge": "P12Y", "minValue": 27, "maxValue": 58},
+					{"minAge": "P12Y", "maxAge": "P15Y", "minValue": 35, "maxValue": 83},
+					{"minAge": "P15Y", "maxAge": "P19Y", "minValue": 50, "maxValue": 100},
+					{"minAge": "P19Y", "maxAge": "P120Y", "minValue": 60, "maxValue": 110}  
+				],
+				"F": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 22, "maxValue": 93},
+					{"minAge": "P1W", "maxAge": "P4W", "minValue": 17, "maxValue": 50},
+					{"minAge": "P4W", "maxAge": "P2Y", "minValue": 11, "maxValue": 36},
+					{"minAge": "P2Y", "maxAge": "P6Y", "minValue": 20, "maxValue": 44},
+					{"minAge": "P6Y", "maxAge": "P12Y", "minValue": 27, "maxValue": 58},
+					{"minAge": "P12Y", "maxAge": "P15Y", "minValue": 35, "maxValue": 74},
+					{"minAge": "P15Y", "maxAge": "P19Y", "minValue": 38, "maxValue": 82},
+					{"minAge": "P19Y", "maxAge": "P120Y", "minValue": 45, "maxValue": 90}  
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2000-8": {
+		"description": "Calcium, all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 1.85, "maxValue": 2.80},
+					{"minAge": "P1W", "maxAge": "P26W", "minValue": 2.20, "maxValue": 2.80},
+					{"minAge": "P26W", "maxAge": "P2Y", "minValue": 2.20, "maxValue": 2.70},
+					{"minAge": "P2Y", "maxAge": "P18Y", "minValue": 2.20, "maxValue": 2.65},
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 2.10, "maxValue": 2.60}  
+				]
+			}
+		},
+		"precision": 2
+    },
+    "29265-6": {
+		"description": "Calcium corrected for albumin, all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 2.10, "maxValue": 2.60}  
+				]
+			}
+		},
+		"precision": 2
+    },
+    "14879-1": {
+		"description": "Phosphate, all speciment types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 1.25, "maxValue": 2.85},
+					{"minAge": "P1W", "maxAge": "P4W", "minValue": 1.50, "maxValue": 2.75},
+					{"minAge": "P4W", "maxAge": "P26W", "minValue": 1.45, "maxValue": 2.50},
+					{"minAge": "P26W", "maxAge": "P1Y", "minValue": 1.30, "maxValue": 2.30},
+					{"minAge": "P1Y", "maxAge": "P4Y", "minValue": 1.10, "maxValue": 2.20},
+					{"minAge": "P4Y", "maxAge": "P15Y", "minValue": 0.90, "maxValue": 2.00},
+					{"minAge": "P15Y", "maxAge": "P18Y", "minValue": 0.80, "maxValue": 1.85},
+					{"minAge": "P18Y", "maxAge": "P20Y", "minValue": 0.75, "maxValue": 1.65},
+					{"minAge": "P20Y", "maxAge": "P120Y", "minValue": 0.75, "maxValue": 1.50}
+				]
+			}
+		},
+		"precision": 2
+    },
+    "2601-3": {
+		"description": "Magnesium, any specimen type, all sex codes",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 0.60, "maxValue": 1.00},
+					{"minAge": "P1W", "maxAge": "P18Y", "minValue": 0.65, "maxValue": 1.10},
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 0.70, "maxValue": 1.10}
+				]
+			}
+		},
+		"precision": 2
+    },
+    "14804-9": {
+		"description": "Lactate dehydrogenase, all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 120, "maxValue": 250}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "6768-6": {
+		"description": "Alkaline phosphatase, all speciment types for 'M' and 'F' sex codes",
+		"specimen": {
+			"all": {
+				"M": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 80, "maxValue":380},
+					{"minAge": "P1W", "maxAge": "P4W", "minValue": 120, "maxValue": 550},
+					{"minAge": "P4W", "maxAge": "P26W", "minValue": 120, "maxValue": 650},
+					{"minAge": "P26W", "maxAge": "P2Y", "minValue": 120, "maxValue": 450},
+					{"minAge": "P2Y", "maxAge": "P6Y", "minValue": 120, "maxValue": 370},
+					{"minAge": "P6Y", "maxAge": "P10Y", "minValue": 120, "maxValue": 440},
+					{"minAge": "P10Y", "maxAge": "P14Y", "minValue": 130, "maxValue": 530},
+					{"minAge": "P14Y", "maxAge": "P15Y", "minValue": 105, "maxValue": 480},
+					{"minAge": "P15Y", "maxAge": "P17Y", "minValue": 80, "maxValue": 380},
+					{"minAge": "P17Y", "maxAge": "P19Y", "minValue": 50, "maxValue": 220},
+					{"minAge": "P19Y", "maxAge": "P22Y", "minValue": 45, "maxValue": 150},
+					{"minAge": "P22Y", "maxAge": "P120Y", "minValue": 40, "maxValue": 410}  
+				],
+				"F": [
+					{"minAge": "P0D", "maxAge": "P1W", "minValue": 80, "maxValue":380},
+					{"minAge": "P1W", "maxAge": "P4W", "minValue": 120, "maxValue": 550},
+					{"minAge": "P4W", "maxAge": "P26W", "minValue": 120, "maxValue": 650},
+					{"minAge": "P26W", "maxAge": "P2Y", "minValue": 120, "maxValue": 450},
+					{"minAge": "P2Y", "maxAge": "P6Y", "minValue": 120, "maxValue": 370},
+					{"minAge": "P6Y", "maxAge": "P10Y", "minValue": 120, "maxValue": 440},
+					{"minAge": "P10Y", "maxAge": "P13Y", "minValue": 100, "maxValue": 460},
+					{"minAge": "P13Y", "maxAge": "P14Y", "minValue": 70, "maxValue": 330},
+					{"minAge": "P14Y", "maxAge": "P15Y", "minValue": 50, "maxValue": 280},
+					{"minAge": "P15Y", "maxAge": "P16Y", "minValue": 45, "maxValue": 170},
+					{"minAge": "P16Y", "maxAge": "P22Y", "minValue": 35, "maxValue": 140},
+					{"minAge": "P22Y", "maxAge": "P50Y", "minValue": 35, "maxValue": 115},
+					{"minAge": "P50Y", "maxAge": "P120Y", "minValue": 40, "maxValue": 135}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2885-2": {
+		"description": "Protein for all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 60, "maxValue": 80}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "14631-6": {
+		"description": "Bilirubin for all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 1, "maxValue": 20}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2157-6": {
+		"description": "Creatine kinase for all specimen types for 'M' and 'F' sex codes",
+		"specimen": {
+			"all": {
+				"M": [
+					{"minAge": "P18Y", "maxAge": "P60Y", "minValue": 45, "maxValue": 250},
+					{"minAge": "P60Y", "maxAge": "P120Y", "minValue": 40, "maxValue": 220}
+				],
+				"F": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 30, "maxValue": 165}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "1744-2": {
+		"description": "Alanine aminotransferase, any specimen type for 'M' and 'F' sex codes",
+		"specimen": {
+			"all": {
+				"M": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 5, "maxValue": 40}
+				],
+				"F": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 5, "maxValue": 35}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "1920-8": {
+		"description": "Aspartate aminotransferase, any specimen type for 'M' and 'F' sex codes",
+		"specimen": {
+			"all": {
+				"M": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 5, "maxValue": 35}
+				],
+				"F": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 5, "maxValue": 30}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2324-2": {
+		"description": "Gamma-glutamyl transferase, any specimen type for 'M' and 'F' sex codes",
+		"specimen": {
+			"all": {
+				"M": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 5, "maxValue": 50}
+				],
+				"F": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 5, "maxValue": 35}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "3040-3": {
+		"description": "Lipase for all specimen types, any sex code",
+		"specimen": {
+			"all": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 10, "maxValue": 60}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2744-1": {
+		"description": "Arterial pH for 'Blood'' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 7.35, "maxValue": 7.45}
+				]
+			}
+		},
+		"precision": 2
+    },
+    "2746-6": {
+		"description": "Venous pH for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 35, "maxValue": 45}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2703-7": {
+		"description": "Arterial pO2 for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 75, "maxValue": 105}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "19218-7": {
+		"description": "Arterial Oxygen for 'Blood' Specimen type, and any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0067, "maxValue": 0.0098}
+				]
+			}
+		},
+		"precision": 4
+    },
+    "2019-8": {
+		"description": "Arterial pCO2 for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 35, "maxValue": 45}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "2021-4": {
+		"description": "Venous pCO2 for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 35, "maxValue": 45}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "1960-4": {
+		"description": "Arterial Bicarbonate for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 22, "maxValue": 28}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "14627-4": {
+		"description": "Venous Bicarbonate for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 22, "maxValue": 30}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "32693-4": {
+		"description": "Whole Blood Lactate for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 0.4, "maxValue": 2.0}
+				]
+			}
+		},
+		"precision": 1
+    },
+    "1925-7": {
+        "description": "Arterial standard base excess for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": -3.0, "maxValue": 3.0}
+				]
+			}
+		},
+		"precision": 1
+    },
+    "51733-4": {
+		"description": "Arterial O2 saturation for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P0D", "maxAge": "P120Y", "minValue": 95, "maxValue": 100}
+				]
+			}
+		},
+		"precision": 0
+    },
+    "1927-3": {
+		"description": "Venous standard base excess for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": -2.0, "maxValue": 4.5}
+				]
+			}
+		},
+		"precision": 1
+    },
+    "1994-3": {
+		"description": "Venous ionised calcium for 'Blood' specimen type, any sex code",
+		"specimen": {
+			"Blood": {
+				"all": [
+					{"minAge": "P18Y", "maxAge": "P120Y", "minValue": 1.15, "maxValue": 1.30}
+				]
+			}
+		},
+		"precision": 2
+    },
+    "1834-1": {
+		"description": "Alph-fetoprotein for all specimen types, any sex code",
+		"specimen": {
+			"all": {
+                "M": [
+                    {"minAge": "P0D", "maxAge": "P1W", "minValue": 0, "maxValue": 75265.8},
+                    {"minAge": "P1W", "maxAge": "P1M", "minValue": 0, "maxValue": 32556.4},
+                    {"minAge": "P1M", "maxAge": "P2M", "minValue": 0, "maxValue": 1748.8},
+                    {"minAge": "P2M", "maxAge": "P3M", "minValue": 0, "maxValue": 391.1},
+                    {"minAge": "P3M", "maxAge": "P4M", "minValue": 0, "maxValue": 225.8},
+                    {"minAge": "P4M", "maxAge": "P5M", "minValue": 0, "maxValue": 230.6},
+                    {"minAge": "P5M", "maxAge": "P6M", "minValue": 0, "maxValue": 118.0},
+                    {"minAge": "P6M", "maxAge": "P7M", "minValue": 0, "maxValue": 97.2},
+                    {"minAge": "P7M", "maxAge": "P1Y", "minValue": 0, "maxValue": 60.3},
+                    {"minAge": "P1Y", "maxAge": "P2Y", "minValue": 0, "maxValue": 21.4},
+                    {"minAge": "P2Y", "maxAge": "P3Y", "minValue": 0, "maxValue": 9.4},
+                    {"minAge": "P3Y", "maxAge": "P5Y", "minValue": 0, "maxValue": 5.5},
+                    {"minAge": "P5Y", "maxAge": "P6Y", "minValue": 0, "maxValue": 3.6},
+                    {"minAge": "P6Y", "maxAge": "P13Y", "minValue": 0, "maxValue": 3.9},
+                    {"minAge": "P13Y", "maxAge": "P18Y", "minValue": 0, "maxValue": 4.3},
+                    {"minAge": "P18Y", "maxAge": "P31Y", "minValue": 0, "maxValue": 5.7},
+                    {"minAge": "P31Y", "maxAge": "P51Y", "minValue": 0, "maxValue": 6.9},
+                    {"minAge": "P51Y", "maxAge": "P80Y", "minValue": 0, "maxValue": 8.4},
+                    {"minAge": "P80Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 6.4}
+                ],
+                "F": [
+                    {"minAge": "P0D", "maxAge": "P1W", "minValue": 0, "maxValue": 75265.8},
+                    {"minAge": "P1W", "maxAge": "P1M", "minValue": 0, "maxValue": 32556.4},
+                    {"minAge": "P1M", "maxAge": "P2M", "minValue": 0, "maxValue": 1600.3},
+                    {"minAge": "P2M", "maxAge": "P3M", "minValue": 0, "maxValue": 550.0},
+                    {"minAge": "P3M", "maxAge": "P4M", "minValue": 0, "maxValue": 339.9},
+                    {"minAge": "P4M", "maxAge": "P5M", "minValue": 0, "maxValue": 230.6},
+                    {"minAge": "P5M", "maxAge": "P6M", "minValue": 0, "maxValue": 234.0},
+                    {"minAge": "P6M", "maxAge": "P7M", "minValue": 0, "maxValue": 97.2},
+                    {"minAge": "P7M", "maxAge": "P1Y", "minValue": 0, "maxValue": 60.3},
+                    {"minAge": "P1Y", "maxAge": "P2Y", "minValue": 0, "maxValue": 21.4},
+                    {"minAge": "P2Y", "maxAge": "P3Y", "minValue": 0, "maxValue": 10.1},
+                    {"minAge": "P3Y", "maxAge": "P5Y", "minValue": 0, "maxValue": 5.5},
+                    {"minAge": "P5Y", "maxAge": "P6Y", "minValue": 0, "maxValue": 4.2},
+                    {"minAge": "P6Y", "maxAge": "P13Y", "minValue": 0, "maxValue": 3.9},
+                    {"minAge": "P13Y", "maxAge": "P18Y", "minValue": 0, "maxValue": 4.3},
+                    {"minAge": "P18Y", "maxAge": "P31Y", "minValue": 0, "maxValue": 4.7},
+                    {"minAge": "P31Y", "maxAge": "P51Y", "minValue": 0, "maxValue": 6.4},
+                    {"minAge": "P51Y", "maxAge": "P80Y", "minValue": 0, "maxValue": 9.2},
+                    {"minAge": "P80Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 8.7}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "7970-7": {
+        "description": "Mycoplasma pneumoniae IgG for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 100}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "21406-4": {
+        "description": "Mycoplasma pneumoniae IgM for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 770}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "718-7": {
+        "description": "Heamoglobin for all specimen types, 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 130, "maxValue": 180}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 115, "maxValue": 160}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "789-8": {
+        "description": "Red Cell Count for all specimen types, 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 4.5, "maxValue": 6.5}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.8, "maxValue": 5.8}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "4544-3": {
+        "description": "Hematocrit for all specimen types, 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.4, "maxValue": 0.54}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.36, "maxValue": 0.46}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "787-2": {
+        "description": "Mean Corpuscular Volume for all specimen types, any sex code",
+        "specimen": {
+        "all": {
+            "all": [
+                {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 80, "maxValue": 100}
+            ]
+        }
+        },
+        "precision": 0
+    },
+    "785-6": {
+        "description": "Mean Corpuscular Hemoglobin for all specimen types, any sex code",
+        "specimen": {
+            "all": { 
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 27, "maxValue": 32}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "786-4": {
+        "description": "Mean Corpuscular Hemoglobin Concentration for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 320, "maxValue": 360}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "788-0": {
+        "description": "Red Cell Distribution Width for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 11.5, "maxValue": 14.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "6690-2": {
+        "description": "White Cell Count for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 4.0, "maxValue": 11.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "26511-6": {
+        "description": "Neutrophil Percentage for 'Blood' specimen type, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 40.0, "maxValue": 70.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "26478-8": {
+        "description": "Lymphocyte Percentage for 'Blood' specimen type, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 20.0, "maxValue": 40.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "26485-3": {
+        "description": "Monocyte Percentage for 'Blood' specimen type, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 2.0, "maxValue": 10.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "26450-7": {
+        "description": "Eosinophil Percentage for 'Blood' specimen type, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 6.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "30180-4": {
+        "description": "Basophil Percentage for 'Blood' specimen type, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 2.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "777-3": {
+        "description": "Platelet count for 'Blood' specimen type, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 150, "maxValue": 450}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "32623-1": {
+        "description": "Mean Platelet Volume for 'Blood' specimen type, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 9.2, "maxValue": 12.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "2276-4": {
+        "description": "Ferritin for all specimen types, 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 30, "maxValue": 300}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P45Y", "minValue": 15, "maxValue": 200},
+                    {"minAge": "P45Y", "maxAge": "P120Y", "minValue": 30, "maxValue": 300}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14798-3": {
+        "description": "Iron for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 10, "maxValue": 30}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "3034-6": {
+        "description": "Transferrin for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 2.0, "maxValue": 3.6}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14801-5": {
+        "description": "Transferrin Saturation for all specimen types, any sex code",
+        "specimen": {
+        "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 15, "maxValue": 45}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14800-7": {
+        "description": "Total Iron Binding Capacity for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 45, "maxValue": 80}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "30239-8": {
+        "description": "Aspartate aminotransferase P-5'-P for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 40}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "22664-7": {
+        "description": "Urea for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.0, "maxValue": 8.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "62238-1": {
+        "description": "GFR estimated by CKD-EPI for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 90, "maxValue": 120}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "98979-8": {
+        "description": "GFR estimated by CKD-EPI 2021 for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 90, "maxValue": 120}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "50210-4": {
+        "description": "GFR estimated by Cystatin for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 90, "maxValue": 120}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "77147-7": {
+        "description": "GFR estimated by MDRD 173 for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 90, "maxValue": 120}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "32294-1": {
+        "description": "Microalbumin for all specimen types, 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 2.5}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 3.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14642-3": {
+        "description": "Cholesterol for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 5.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "22748-8": {
+        "description": "LDL Cholesterol for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 3.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14646-4": {
+        "description": "HDL Cholesterol for all specimen types, any 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 2.5}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.3, "maxValue": 2.5}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14927-8": {
+        "description": "Triglycerides for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 1.7}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "70204-3": {
+        "description": "Non HDL Cholesterol for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 3.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "1884-6": {
+        "description": "Apolipoprotein B for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 0.9}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "10835-7": {
+        "description": "Apolipoprotein (a) for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 75}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14771-0": {
+        "description": "Glucose fasting for 'Serum' and 'Plasma' specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 5.5}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 5.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14749-6": {
+        "description": "Glucose random for 'Serum' and 'Plasma' specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 7.8}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 7.8}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "4548-4": {
+        "description": "Hemoglobin A1c for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 6, "maxValue": 6.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "27873-9": {
+        "description": "Insulin fasting for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 25}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "3016-3": {
+        "description": "Thyroid Stimulating Hormone (TSH) for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.4, "maxValue": 4.0},
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.4, "maxValue": 4.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14928-6": {
+        "description": "Free T3 for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 6.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14920-3": {
+        "description": "Free T4 for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 10, "maxValue": 22}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "8098-6": {
+        "description": "Anti-Thyroglobulin antibodies for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 40}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "8099-4": {
+        "description": "Anti-Thyroid peroxidase antibodies for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 35}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14913-8": {
+        "description": "Testosterone for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 10.0, "maxValue": 30.0}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.5, "maxValue": 2.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14914-6": {
+        "description": "Free Testosterone for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 200, "maxValue": 600}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 5, "maxValue": 35}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "13967-5": {
+        "description": "Sex hormone binding globulin (SHBG) for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 15, "maxValue": 55}
+                    ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 30, "maxValue": 110}
+                    ]
+            }
+        },
+        "precision": 0
+    },
+    "14715-7": {
+        "description": "Oestradiol for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 160}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P55Y", "minValue": 70, "maxValue": 800},
+                    {"minAge": "P55Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 110}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "10501-5": {
+        "description": "Luteinising hormone for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.5, "maxValue": 9.3}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P55Y", "minValue": 1, "maxValue": 96},
+                    {"minAge": "P55Y", "maxAge": "P120Y", "minValue": 1, "maxValue": 11}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "15081-3": {
+        "description": "Prolactin for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 325}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 500}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "48377-6": {
+        "description": "Anti-Mullerian hormone for all specimen types, for 'F' sex code",
+        "specimen": {
+            "all": {
+                "F": [
+                    {"minAge": "P12Y", "maxAge": "P55Y", "minValue": 15.0, "maxValue": 40.0},
+                    {"minAge": "P55Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 1.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14688-6": {
+        "description": "Dehydroepiandrosterone sulphate (DHEA-S) for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 4.0, "maxValue": 11.0}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 2.0, "maxValue": 9.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14566-4": {
+        "description": "Vitamin D for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 50, "maxValue": 150}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "72160-5": {
+        "description": "Active Vitamin B12 for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 35, "maxValue": 188}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14685-2": {
+        "description": "Vitamin B12 for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 200, "maxValue": 700}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14731-4": {
+        "description": "Red blood cell folate for all specimen types, any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 740, "maxValue": 1500}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14732-2": {
+        "description": "Folate for all Serum and Plasma specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 10, "maxValue": 20}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 10, "maxValue": 20}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14955-9": {
+        "description": "Zinc for Serum and Plasma specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 10, "maxValue": 20}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 10, "maxValue": 20}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "1988-5": {
+        "description": "C-reactive protein for Serum and Plasma specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 5.0}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 5.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "30522-7": {
+        "description": "C-reactive protein high sensitivity for Serum and Plasma specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 3.0}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 3.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "30341-2": {
+        "description": "Erythrocyte sedimentation rate for Blood specimen types, 'M and 'F' sex codes",
+        "specimen": {
+            "Blood": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 15}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 20}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "13965-9": {
+        "description": "Homocysteine for Serum and Plasma specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 15}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 15}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "33762-6": {
+        "description": "Nt Pro B-Natriuretic Peptide for Serum and Plasma specimen types, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P75Y", "minValue": 0, "maxValue": 125},
+                    {"minAge": "P75Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 450}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P75Y", "minValue": 0, "maxValue": 125},
+                    {"minAge": "P75Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 450}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "2857-1": {
+        "description": "Prostate specific AG for Serum and Plasma specimen types, 'M' sex code",
+        "specimen": {
+            "Serum": {
+                "M": [
+                    {"minAge": "P50Y", "maxAge": "P60Y", "minValue": 0.0, "maxValue": 2.5},
+                    {"minAge": "P60Y", "maxAge": "P70Y", "minValue": 0.0, "maxValue": 3.5},
+                    {"minAge": "P70Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 4.5}
+                ]
+            },
+            "Plasma": {
+                "M": [
+                    {"minAge": "P50Y", "maxAge": "P60Y", "minValue": 0.0, "maxValue": 2.5},
+                    {"minAge": "P60Y", "maxAge": "P70Y", "minValue": 0.0, "maxValue": 3.5},
+                    {"minAge": "P70Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 4.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "12841-3": {
+        "description": "Prostate specific AG free/total for Serum and Plasma specimen types, 'M' sex code",
+        "specimen": {
+            "Serum": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 25, "maxValue": 100}
+                ]
+            },
+            "Plasma": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 25, "maxValue": 100}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "2039-6": {
+        "description": "Carcinoembryonic antigen for Serum and Plasma specimen type, any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 5.0}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 5.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "16362-6": {
+        "description": "Ammonia for Plasma specimen types, any sex code",
+        "specimen": {
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 50}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14684-5": {
+        "description": "Measurement of renal clearance of creatinine for all specimen types, for 'M' and 'F' sex codes",
+        "specimen": {
+            "all": {
+                "M": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 97, "maxValue": 137}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 88, "maxValue": 128}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "63459-2": {
+        "description": "Measurement of deamidated gliadin peptide antibody for all specimen types, any sex code",
+        "specimen": {
+            "all": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 7.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "8116-6": {
+        "description": "Absolute CD19+ B Cell count for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 100, "maxValue": 650}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "8117-4": {
+        "description": "Percentage CD19 B Cells for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 5.0, "maxValue": 22.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "15193-6": {
+        "description": "Absolute CD3-CD16+ Cell count for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 70, "maxValue": 480}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "15194-4": {
+        "description": "Percentage CD3-CD16+ Cells for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 5.0, "maxValue": 30.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "9728-7": {
+        "description": "Absolute CD3-CD16+CD56+ Cell count for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 100, "maxValue": 590}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "8112-5": {
+        "description": "Percentage CD3-CD16+CD56+ Cells for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.5, "maxValue": 20.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "55090-5": {
+        "description": "Percentage CD3-CD56+ Cells for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 5.0, "maxValue": 25.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "24467-3": {
+        "description": "Absolute CD3+CD4+ Cell count for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 500, "maxValue": 1500}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "8123-2": {
+        "description": "Percentage CD3+CD4+ Cells for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 30.0, "maxValue": 60.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14135-8": {
+        "description": "Absolute CD3+CD8+ Cell count for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 250, "maxValue": 800}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "8101-8": {
+        "description": "Percentage CD3+CD8+ Cells for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 12.0, "maxValue": 43.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "8122-4": {
+        "description": "Absolute CD3 Cell count for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 800, "maxValue": 2300}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "8124-0": {
+        "description": "Percentage CD3 Cells for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 49.0, "maxValue": 91.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "54218-3": {
+        "description": "Ratio CD4/CD8 for all specimen type 'Blood', any sex code",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 3.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "3665-7": {
+        "description": "Gentamicin trough level for specimen types 'Serum' and 'Plasma', any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 500, "maxValue": 1500}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 500, "maxValue": 1500}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "72516-8": {
+        "description": "Point of care glucose measurement for 'Blood' specimen types and all sex codes",
+        "specimen": {
+            "Blood": {
+                "all": [
+                    {"minAge": "P0Y", "maxAge": "P120Y", "minValue": 3.5, "maxValue": 5.5}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "2963-7": {
+        "description": "Human Growth Hormone for specimen types 'Serum' and 'Plasma', any sex code",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 10.0}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 10.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "2458-8": {
+        "description": "Immunoglobulin A (IgA) Measurement for specimen types 'Serum' and 'Plasma', 'M' and 'F'' sex codes",
+        "specimen": {
+            "Serum": {
+                "M": [
+                    {"minAge": "P0D", "maxAge": "P1Y", "minValue": 0.0, "maxValue": 0.4},
+                    {"minAge": "P1Y", "maxAge": "P14Y", "minValue": 0.2, "maxValue": 2.2},
+                    {"minAge": "P14Y", "maxAge": "P60Y", "minValue": 0.6, "maxValue": 4.8},
+                    {"minAge": "P60Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 6.5}
+                ],
+                "F": [
+                    {"minAge": "P0D", "maxAge": "P1Y", "minValue": 0.0, "maxValue": 0.4},
+                    {"minAge": "P1Y", "maxAge": "P14Y", "minValue": 0.2, "maxValue": 2.2},
+                    {"minAge": "P14Y", "maxAge": "P60Y", "minValue": 0.6, "maxValue": 4.8},
+                    {"minAge": "P60Y", "maxAge": "P120Y", "minValue": 0.7, "maxValue": 5.2}
+                ]
+            },
+            "Plasma": {
+                "M": [
+                    {"minAge": "P0D", "maxAge": "P1Y", "minValue": 0.0, "maxValue": 0.4},
+                    {"minAge": "P1Y", "maxAge": "P14Y", "minValue": 0.2, "maxValue": 2.2},
+                    {"minAge": "P14Y", "maxAge": "P60Y", "minValue": 0.6, "maxValue": 4.8},
+                    {"minAge": "P60Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 6.5}
+                ],
+                "F": [
+                    {"minAge": "P0D", "maxAge": "P1Y", "minValue": 0.0, "maxValue": 0.4},
+                    {"minAge": "P1Y", "maxAge": "P14Y", "minValue": 0.2, "maxValue": 2.2},
+                    {"minAge": "P14Y", "maxAge": "P60Y", "minValue": 0.6, "maxValue": 4.8},
+                    {"minAge": "P60Y", "maxAge": "P120Y", "minValue": 0.7, "maxValue": 5.2}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "2460-4": {
+        "description": "Immunoglobulin D (IgD) Measurement for specimen type 'Serum' and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.10}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "19113-0": {
+        "description": "Immunoglobulin E (IgE) Measurement for specimen types 'Serum' and 'Plasma', all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0, "maxValue": 200}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0, "maxValue": 200}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "2465-3": {
+        "description": "Immunoglobulin G (IgG) Measurement for specimen types 'Serum' and 'Plasma', all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P6M", "minValue": 100, "maxValue": 334},
+                    {"minAge": "P6M", "maxAge": "P2Y", "minValue": 331, "maxValue": 1164},
+                    {"minAge": "P2Y", "maxAge": "P4Y", "minValue": 407, "maxValue": 1090},
+                    {"minAge": "P4Y", "maxAge": "P10Y", "minValue": 444, "maxValue": 1509},
+                    {"minAge": "P10Y", "maxAge": "P120Y", "minValue": 700, "maxValue": 1600}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P6M", "minValue": 0, "maxValue": 334},
+                    {"minAge": "P6M", "maxAge": "P2Y", "minValue": 0, "maxValue": 1164},
+                    {"minAge": "P2Y", "maxAge": "P4Y", "minValue": 0, "maxValue": 1090},
+                    {"minAge": "P4Y", "maxAge": "P10Y", "minValue": 0, "maxValue": 1509},
+                    {"minAge": "P10Y", "maxAge": "P120Y", "minValue": 0, "maxValue": 1600}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "2466-1": {
+        "description": "Immunoglobulin G (IgG) subclass 1 Measurement for specimen type 'Serum', all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 380, "maxValue": 930}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "2468-7": {
+        "description": "Immunoglobulin G (IgG) subclass 3 Measurement for specimen type 'Serum', all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P20Y", "maxAge": "P120Y", "minValue": 15, "maxValue": 102}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "2469-5": {
+        "description": "Immunoglobulin G (IgG) subclass 4 Measurement for specimen type 'Serum', all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P6M", "minValue": 0.0, "maxValue": 19.8},
+                    {"minAge": "P6M", "maxAge": "P2Y", "minValue": 0.0, "maxValue": 34.8},
+                    {"minAge": "P2Y", "maxAge": "P6Y", "minValue": 0.0, "maxValue": 49.1},
+                    {"minAge": "P6Y", "maxAge": "P10Y", "minValue": 1.0, "maxValue": 108.7},
+                    {"minAge": "P10Y", "maxAge": "P18Y", "minValue": 1.5, "maxValue": 102.3},
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 2.4, "maxValue": 96.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "2472-9": {
+        "description": "Immunoglobulin M (IgM) Measurement for specimen types 'Serum' and 'Plasma', all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P5M", "minValue": 26, "maxValue": 112},
+                    {"minAge": "P5M", "maxAge": "P9M", "minValue": 32, "maxValue": 132},
+                    {"minAge": "P9M", "maxAge": "P15M", "minValue": 40, "maxValue": 143},
+                    {"minAge": "P15M", "maxAge": "P2Y", "minValue": 46, "maxValue": 152},
+                    {"minAge": "P2Y", "maxAge": "P4Y", "minValue": 37, "maxValue": 184},
+                    {"minAge": "P4Y", "maxAge": "P7Y", "minValue": 37, "maxValue": 224},
+                    {"minAge": "P7Y", "maxAge": "P10Y", "minValue": 38, "maxValue": 251},
+                    {"minAge": "P10Y", "maxAge": "P13Y", "minValue": 41, "maxValue": 225},
+                    {"minAge": "P13Y", "maxAge": "P16Y", "minValue": 45, "maxValue": 244},
+                    {"minAge": "P16Y", "maxAge": "P18Y", "minValue": 49, "maxValue": 201},
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 37, "maxValue": 286}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P5M", "minValue": 26, "maxValue": 112},
+                    {"minAge": "P5M", "maxAge": "P9M", "minValue": 32, "maxValue": 132},
+                    {"minAge": "P9M", "maxAge": "P15M", "minValue": 40, "maxValue": 143},
+                    {"minAge": "P15M", "maxAge": "P2Y", "minValue": 46, "maxValue": 152},
+                    {"minAge": "P2Y", "maxAge": "P4Y", "minValue": 37, "maxValue": 184},
+                    {"minAge": "P4Y", "maxAge": "P7Y", "minValue": 37, "maxValue": 224},
+                    {"minAge": "P7Y", "maxAge": "P10Y", "minValue": 38, "maxValue": 251},
+                    {"minAge": "P10Y", "maxAge": "P13Y", "minValue": 41, "maxValue": 225},
+                    {"minAge": "P13Y", "maxAge": "P16Y", "minValue": 45, "maxValue": 244},
+                    {"minAge": "P16Y", "maxAge": "P18Y", "minValue": 49, "maxValue": 201},
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 37, "maxValue": 286}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "48378-4": {
+        "description": "Immunoglobulin Free Light Chain Measurement for specimen type 'Serum', all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.26, "maxValue": 1.65}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6020-2": {
+        "description": "Alternaria alternata IgE antibodies for 'Serum''Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.10}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6025-1": {
+        "description": "Aspergillus fumigatus IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.10}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6041-8": {
+        "description": "Bermuda Grass IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.10}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6718-1": {
+        "description": "Cashew Nut IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.10}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6833-8": {
+        "description": "Cat Dander IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.10}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "7258-7": {
+        "description": "Cow's Milk IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.35}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6096-2": {
+        "description": "European house dust mite IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.35}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6106-9": {
+        "description": "Egg White IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.10}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6844-5": {
+        "description": "Honey Bee Venom IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.35}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6158-0": {
+        "description": "Latex IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.70}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6198-6": {
+        "description": "Paper Wasp IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.35}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6034-3": {
+        "description": "Bahia Grass IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.35}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6206-7": {
+        "description": "Peanut Grass IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.35}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6246-3": {
+        "description": "Shrimp IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.35}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "7369-2": {
+        "description": "Rye Grass IgE antibodies for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.00, "maxValue": 0.70}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "6598-7": {
+        "description": "Troponin T (cardiac) mass for 'Serum' and 'Plasma' Specimen types and 'M' and 'F' sex codes",
+        "specimen": {
+            "Serum": {
+                "M": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 23.0}
+                ],
+                "F": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 15.0}
+                ]
+            },
+            "Plasma": {
+                "M": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 23.0}
+                ],
+                "F": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 15.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "48425-3": {
+        "description": "Troponin T (cardiac) mass for 'Blood' Specimen type and 'M' and 'F' sex codes",
+        "specimen": {
+            "Blood": {
+                "M": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 23.0}
+                ],
+                "F": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 15.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "25550-5": {
+        "description": "Urea in 24 hour Urine for 'Urine' Specimen type and all sex codes",
+        "specimen": {
+            "Urine": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 420, "maxValue": 720}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "4086-5": {
+        "description": "Total Valproate (Valproic Acid) mass for 'Serum' and 'Plasma' Specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 50, "maxValue": 100}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 50, "maxValue": 100}
+                ]
+            }
+        },
+        "precision": 0
+    },
+    "14674-6": {
+        "description": "Adrenocorticotropic hormone (ACTH) for 'Serum' and 'Plasma' Specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 1.6, "maxValue": 13.9}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 1.6, "maxValue": 13.9}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "9423-5": {
+        "description": "Nuclear Ab (ANA) for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 8.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "1995-0": {
+        "description": "Ionized (free) calcium for 'Serum' and 'Plasma' specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P16Y", "maxAge": "P120Y", "minValue": 1.15, "maxValue": 1.33}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P16Y", "maxAge": "P120Y", "minValue": 1.15, "maxValue": 1.33}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "3187-2": {
+        "description": "Coagulation factor IX for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P1M", "minValue": 15.0, "maxValue": 150.0},
+                    {"minAge": "P1M", "maxAge": "P6M", "minValue": 21.0, "maxValue": 150.0},
+                    {"minAge": "P6M", "maxAge": "P1Y", "minValue": 36.0, "maxValue": 150.0},
+                    {"minAge": "P1Y", "maxAge": "P120Y", "minValue": 60.0, "maxValue": 150.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "3198-9": {
+        "description": "Coagulation factor VII for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P16Y", "maxAge": "P120Y", "minValue": 50.0, "maxValue": 150.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "3218-5": {
+        "description": "Coagulation factor X for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P4D", "minValue": 46.0, "maxValue": 75.0},
+                    {"minAge": "P4D", "maxAge": "P1M", "minValue": 61.0, "maxValue": 98.0},
+                    {"minAge": "P1M", "maxAge": "P1Y", "minValue": 77.0, "maxValue": 122.0},
+                    {"minAge": "P1Y", "maxAge": "P11Y", "minValue": 68.0, "maxValue": 125.0},
+                    {"minAge": "P11Y", "maxAge": "P16Y", "minValue": 53.0, "maxValue": 122.0},
+                    {"minAge": "P16Y", "maxAge": "P120Y", "minValue": 69.0, "maxValue": 131.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "3226-8": {
+        "description": "Coagulation factor XI for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P16Y", "maxAge": "P120Y", "minValue": 55.0, "maxValue": 150.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "3232-6": {
+        "description": "Coagulation factor XII for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P16Y", "maxAge": "P120Y", "minValue": 50.0, "maxValue": 150.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "3237-5": {
+        "description": "Coagulation factor XIII for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.70, "maxValue": 1.40}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "27819-2": {
+        "description": "Protein C functional (activity) for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 70.0, "maxValue": 150.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "27822-6": {
+        "description": "Protein S functional (activity) for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P16Y", "maxAge": "P120Y", "minValue": 68.0, "maxValue": 129.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14675-3": {
+        "description": "Cortisol for 'Serum' and 'Plasma' Specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 170.0, "maxValue": 250.0}
+                ]
+            },
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 70.0, "maxValue": 250.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "48066-5": {
+        "description": "Fibrin D-dimer for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 0.50}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "10535-3": {
+        "description": "Digoxin for 'Serum' and 'Plasma' Specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.80, "maxValue": 0.90}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.80, "maxValue": 0.90}
+                ]
+            }
+        },
+        "precision": 2
+    },
+    "15067-2": {
+        "description": "Follicle-Stimulating Hormone for 'Serum' and 'Plasma' Specimen types and 'M' and 'F' sex codes",
+        "specimen": {
+            "Serum": {
+                "M": [
+                    {"minAge": "P12Y", "maxAge": "P120Y", "minValue": 1.2, "maxValue": 15.8}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P55Y", "minValue": 1.0, "maxValue": 24.0},
+                    {"minAge": "P55Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 18.0}
+                ]
+            },
+            "Plasma": {
+                "M": [
+                    {"minAge": "P12Y", "maxAge": "P120Y", "minValue": 1.2, "maxValue": 15.8}
+                ],
+                "F": [
+                    {"minAge": "P0Y", "maxAge": "P55Y", "minValue": 1.0, "maxValue": 24.0},
+                    {"minAge": "P55Y", "maxAge": "P120Y", "minValue": 1.0, "maxValue": 18.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "16935-9": {
+        "description": "Hepatitis B surface antibody for 'Serum' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 12.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "3298-7": {
+        "description": "Paracetamol for 'Serum' and 'Plasma' Specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 30.0}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 30.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "6301-6": {
+        "description": "International Normalized Ratio (INR) for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P18Y", "maxAge": "P120Y", "minValue": 2.0, "maxValue": 3.5}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14866-8": {
+        "description": "Parathyroid Hormone for 'Serum' or 'Plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 1.6, "maxValue": 10.0}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 1.6, "maxValue": 10.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "5902-2": {
+        "description": "Prothrombin Time for 'Platelet poor plasma' Specimen type and all sex codes",
+        "specimen": {
+            "Platelet poor plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 10.0, "maxValue": 14.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "11572-5": {
+        "description": "Rheumatoid Factor for 'Serum' and 'Plasma' Specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 14.0}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.0, "maxValue": 14.0}
+                ]
+            }
+        },
+        "precision": 1
+    },
+    "14933-6": {
+        "description": "Urate for 'Serum' and 'Plasma' Specimen types and all sex codes",
+        "specimen": {
+            "Serum": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.15, "maxValue": 0.45}
+                ]
+            },
+            "Plasma": {
+                "all": [
+                    {"minAge": "P0D", "maxAge": "P120Y", "minValue": 0.15, "maxValue": 0.45}
+                ]
+            }
+        },
+        "precision": 2
+    }
+}
